@@ -22,7 +22,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Disha Kansagara</strong><br/>
-                Enthusiastic professional with a passion for web development, relevant educational background, and 3+ years of experience managing full spectrum development projects within an Agile / Scrum environment. Abreast knowledge of the entire development process from design and development to testing and deployment. Skilled in translating UX concepts into code, developing new user features, and participating code and design reviews.Passionate to identify quick resolution to current and potential problems using advanced analytical skills.I love learning about new technologies to build better and scalable products.
+                Enthusiastic professional with a passion for web development, relevant educational background, and 3+ years of experience managing full spectrum development projects within an Agile / Scrum environment. Abreast knowledge of the entire development process from design and development to testing and deployment. Skilled in translating UX concepts into code, developing new user features, and participating code and design reviews.
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
