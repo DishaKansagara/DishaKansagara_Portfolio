@@ -10,7 +10,7 @@ import L_EXPRESS from "../../assets/img/skills/express.svg";
 import L_DJANGO from "../../assets/img/skills/django.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_MSSQL from "../../assets/img/skills/mssql.svg";
-import L_HEROKU from "../../assets/img/skills/heroku.svg";
+import L_HEROKU from "../../assets/img/skills/heroku1.png";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg";
